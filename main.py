@@ -1,16 +1,15 @@
-# This is a sample Python script.
+chaine = " hello python "
+chaine_2 = "python is   cool"
 
-# Press Maj+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+chaine = " hello python "
+print(len(chaine))
+print(chaine[1])
+print(chaine[2])
+print(chaine[3])
+print(chaine[4])
+print(chaine[5])
+
+print(chaine[1:6])
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
